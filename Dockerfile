@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM armhf/alpine:3.5
 MAINTAINER Marvin Steadfast <marvin@xsteadfastx.org>
 
 ARG WALLABAG_VERSION=2.2.1
